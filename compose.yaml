@@ -2,4 +2,8 @@ services:
   web:
     build: .
     ports:
+<<<<<<< Updated upstream
       - "8080:80"
+=======
+     - "8080:80"
+>>>>>>> Stashed changes
